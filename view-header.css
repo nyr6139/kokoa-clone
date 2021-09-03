@@ -1,0 +1,17 @@
+.view-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--horizontal-space);
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.view-header__title {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.view-header__icons span {
+  margin-left: 25px;
+}

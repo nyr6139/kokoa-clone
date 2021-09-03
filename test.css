@@ -1,0 +1,11 @@
+@import "reset2.css";
+@import "var.css";
+@import "top-bar.css";
+@import "view-header.css";
+@import "one.css";
+@import "user-view.css";
+@import "navi.css";
+
+.main-view {
+  padding: 0px var(--horizontal-space);
+}

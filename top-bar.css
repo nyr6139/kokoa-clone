@@ -1,0 +1,30 @@
+.top-bar {
+  top: 0px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 5px 3px;
+}
+
+.top-bar__column {
+  width: 30%;
+}
+
+.top-bar__column:first-child {
+  margin-right: 5px;
+}
+
+.top-bar__column:nth-child(2) {
+  display: flex;
+  justify-content: center;
+}
+
+.top-bar__column:last-child {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.top-bar__column:last-child i {
+  margin: 0 5px;
+}

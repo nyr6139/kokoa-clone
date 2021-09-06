@@ -23,7 +23,7 @@ ___
 - 채팅목록이 나오는 화면으로 대화방을 누르면 채팅창이 나온다.
 
 # 4.find
-![kakao4](https://user-images.githubusercontent.com/79892837/132156093-951d179d-7bf0-4a65-9a34-27f677ff3005.png)
+![20210906_154054](https://user-images.githubusercontent.com/79892837/132171822-e8e19ee0-9dcc-45ad-a130-12ed80495a2d.png)
 
 - 오픈채팅방이 나오는 find화면. 사진 속 숫자 옆 하트에 커서를 올리면 심장박동이 뛰는 것처럼 애니메이션을 구현해 보았다.
 
